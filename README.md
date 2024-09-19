@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mdasif-git
-- 👀 I’m interested in Data Science. Currently working as a Data Engineer!
-- 🌱 I’m currently learning Data Engineering concepts, Cloud Services(GCP), Orchestration toosls(Airflow)
+- 👋 Hello there, fellow Data Nerd,  @mdasif-git here!
+- 👀 I identify as a Data Engineer. I love all things Data!
+- 🌱 worked on tools like Airflow/Astronomer and Google Cloud Platform to build robust workflows. Fluent in talking to the system using Python and SQL.
 - 📫 You can reach me via email on mdasif.uem@gmail.com
 
 <!---
